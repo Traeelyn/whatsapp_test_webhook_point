@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp_test_webhook_point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traeelyn/whatsapp_test_webhook_point.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Traeelyn/whatsapp_test_webhook_point/issues"
+  },
+  "homepage": "https://github.com/Traeelyn/whatsapp_test_webhook_point#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
